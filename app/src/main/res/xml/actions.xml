@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actions>
+    <action intentName="actions.intent.START_EXERCISE">
+        <fulfillment urlTemplate="yjy://intentservice"/>
+    </action>
+</actions>

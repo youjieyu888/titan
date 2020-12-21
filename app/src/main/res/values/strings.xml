@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Titan</string>
+    <string name="start_intent_service">start intent service</string>
+    <string name="notification_title">Attention</string>
+    <string name="notification_message">balance=0!</string>
+    <string name="ticker_text">tick</string>
+    <string name="channel_name">SERVICE_CHANNEL</string>
+    <string name="channel_description">CHANNEL FOR INTENT SERVICE</string>
+</resources>
